@@ -1,0 +1,1 @@
+(function(){if(window.Swiper){new Swiper('.destination-swiper',{slidesPerView:1,spaceBetween:18,loop:true,autoplay:{delay:2800,disableOnInteraction:false},pagination:{el:'.swiper-pagination',clickable:true},breakpoints:{760:{slidesPerView:2},1100:{slidesPerView:3}}});}})();

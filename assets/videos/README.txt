@@ -1,0 +1,1 @@
+The hero uses a CSS/SVG animated cinematic background so the site remains lightweight and opens directly from index.html.

@@ -1,0 +1,1 @@
+Google Fonts Poppins and Manrope are loaded by CDN.

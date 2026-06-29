@@ -1,0 +1,1 @@
+Font Awesome icons are loaded by CDN.
